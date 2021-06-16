@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialProgramacion2", "ParcialProgramacion2\ParcialProgramacion2.csproj", "{C58BA025-ED00-4AC3-9A8A-7B7A0D0F119D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{62395DEE-CF7B-46A1-AA72-9837C7249438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C58BA025-ED00-4AC3-9A8A-7B7A0D0F119D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58BA025-ED00-4AC3-9A8A-7B7A0D0F119D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58BA025-ED00-4AC3-9A8A-7B7A0D0F119D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58BA025-ED00-4AC3-9A8A-7B7A0D0F119D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62395DEE-CF7B-46A1-AA72-9837C7249438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62395DEE-CF7B-46A1-AA72-9837C7249438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62395DEE-CF7B-46A1-AA72-9837C7249438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62395DEE-CF7B-46A1-AA72-9837C7249438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B03639-676B-4F57-BA8C-E49070F6A86D}
+	EndGlobalSection
+EndGlobal
